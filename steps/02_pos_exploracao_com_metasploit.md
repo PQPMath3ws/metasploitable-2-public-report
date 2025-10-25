@@ -115,4 +115,4 @@ root
 
 <b>PERFEITO DEMAIS!</b> O <i><b>exploit</b></i> funcionou e já direto com acesso ao usuário <i><b>root</b></i> (superusuário, o usuário de nível mais alto no sistema do linux).
 
-Agora o céu é o limite. E vamos com tudo para nossa próxima etapa!
+Agora o céu é o limite. E vamos com tudo para nossa próxima etapa! - <a href="/steps/03_ganhando_acesso_direto_ao_ssh.md">03. Ganhando acesso direto ao <b>SSH</b></a>
