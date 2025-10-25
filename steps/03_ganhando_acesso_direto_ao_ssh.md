@@ -1,6 +1,6 @@
 # 03. Ganhando acesso direto ao SSH
 
-Após realizar a etapa de exploração de vulnerabilidade de um dos serviços presentes na nossa máquina alvo (leia <a href="/steps/03_ganhando_acesso_direto_ao_ssh.md">03. Ganhando acesso direto ao <b>SSH</b></a> para entender o fluxo de pensamento até aqui), vamos procurar uma conexão ao <i><b>console/terminal</b></i> da máquina mais estável, nos conectando diretamente ao <i><b>SSH da mesma.</b></i>
+Após realizar a etapa de exploração de vulnerabilidade de um dos serviços presentes na nossa máquina alvo (leia <a href="02_pos_exploracao_com_metasploit.md">02. Pós-exploração com <b>METASPLOIT</b></a> para entender o fluxo de pensamento até aqui), vamos procurar uma conexão ao <i><b>console/terminal</b></i> da máquina mais estável, nos conectando diretamente ao <i><b>SSH da mesma.</b></i>
 
 Após a gente conseguir acesso ao <i><b>console</b></i> da máquina, vamos procurar por mais usuários nos quais podemos realizar o acesso via <i><b>SSH</b></i>:
 
