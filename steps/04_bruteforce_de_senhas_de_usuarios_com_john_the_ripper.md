@@ -66,4 +66,4 @@ O <b>ÚNICO</b> usuário que ficou faltando da lista foi o `root` <i><b>(AINDA N
 
 Eu abortei o processo depois de pegar os 6 outros usuários pois eu tentei quebrar essa mesma hash com outro software <i><b>open-source</b></i> usando o mesmo dicionário (localizado em `/usr/share/john/password.lst`) e até onde eu executei, ainda não achei a senha do mesmo. Tenso, mas faz parte ;)
 
-Com as senhas da maioria dos usuários expostas, vamos continuar com o nosso progresso - o céu é o limite! Vamos para a nossa próxima etapa!
+Com as senhas da maioria dos usuários expostas, vamos continuar com o nosso progresso - o céu é o limite! Vamos para a nossa próxima etapa! - <a href="/steps/05_comprometendo_banco_de_dados_com_ssh.md">05. Comprometendo banco de dados com <b>SSH</b></a>
