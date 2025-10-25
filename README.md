@@ -15,6 +15,7 @@ Para a documentação não ficar extensa e cansativa demais para a leitura, ser�
 Segue abaixo os tópicos que serão abordados nesse relatório, em sequência:
 
 - <a href="/steps/01_exploracao_com_nmap.md">01. Exploração com <b>NMAP</b></a>
+- <a href="/steps/02_pos_exploracao_com_metasploit.md">02. Pós-exploração com <b>METASPLOIT</b></a>
 
 `OBS: Testes ainda em andamento, então o relatório final ainda está incompleto.`
 
