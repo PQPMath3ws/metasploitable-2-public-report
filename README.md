@@ -17,6 +17,7 @@ Segue abaixo os tópicos que serão abordados nesse relatório, em sequência:
 - <a href="/steps/01_exploracao_com_nmap.md">01. Exploração com <b>NMAP</b></a>
 - <a href="/steps/02_pos_exploracao_com_metasploit.md">02. Pós-exploração com <b>METASPLOIT</b></a>
 - <a href="/steps/03_ganhando_acesso_direto_ao_ssh.md">03. Ganhando acesso direto ao <b>SSH</b></a>
+- <a href="/steps/04_bruteforce_de_senhas_de_usuarios_com_john_the_ripper.md">04. Bruteforce de senhas de usuários com <b>JOHN THE RIPPER</b></a>
 
 `OBS: Testes ainda em andamento, então o relatório final ainda está incompleto.`
 

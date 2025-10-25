@@ -206,4 +206,4 @@ Executamos o mesmo comando novamente:
 
 `ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa msfadmin@192.168.56.105`
 
-E <b>VOALÀ!</b> - Acesso SSH garantido ao nosso servidor alvo. Agora o céu é o limite. E vamos com tudo para nossa próxima etapa!
+E <b>VOALÀ!</b> - Acesso SSH garantido ao nosso servidor alvo. Agora o céu é o limite. E vamos com tudo para nossa próxima etapa! - <a href="/steps/04_bruteforce_de_senhas_de_usuarios_com_john_the_ripper.md">04. Bruteforce de senhas de usuários com <b>JOHN THE RIPPER</b></a>
